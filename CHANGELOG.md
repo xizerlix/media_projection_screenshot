@@ -1,3 +1,7 @@
+## 0.0.7
+
+* Upgrade target SDK version to 35
+
 ## 0.0.6
 
 * Captured image add current time (millisecond) attribute and queue number (start from 1)
